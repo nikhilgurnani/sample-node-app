@@ -1,0 +1,22 @@
+{
+  "name": "node-sample-app",
+  "version": "1.0.0",
+  "description": "This is a sample node.js application with express.js. The purpose of this application is to explain how express is used and how does Node.js work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgurnani/sample-node-app.git"
+  },
+  "author": "Nikhil Gurnani (gurnanikhil@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgurnani/sample-node-app/issues"
+  },
+  "homepage": "https://github.com/nikhilgurnani/sample-node-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
